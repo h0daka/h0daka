@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![hodaka's Github stats](https://github-readme-stats.vercel.app/api?username=h0daka&show_icons=true&theme=tokyonight)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=h0daka&show_icons=true&theme=tokyonight)
