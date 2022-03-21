@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Yūki+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/h0daka"><img src="https://telegra.ph/file/58d6f7a263c875372f616.jpg" alt="hodaka"></a>
+  <a href="https://t.me/h0daka"><img src="https://telegra.ph/file/6bfa83166cd8b7865d219.jpg" alt="hodaka"></a>
 <a href="https://telegram.me/h0daka">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
