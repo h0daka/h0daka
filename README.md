@@ -15,7 +15,7 @@
 
 # My GitHub Stats
 
-![hodaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0daka&show_icons=true&theme=tokyonight)
+![Hodaka Git Stats](https://github-readme-stats.vercel.app/api?username=h0daka&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ![hodaka's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=h0daka&theme=tokyonight)
 ![hodaka's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0daka&theme=tokyonight&layout=compact&langs_count=6)
